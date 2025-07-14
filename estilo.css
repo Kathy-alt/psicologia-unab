@@ -101,3 +101,13 @@
   </script>
 </body>
 </html>
+.semestre {
+  margin-bottom: 40px;
+}
+
+.fila-ramos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
