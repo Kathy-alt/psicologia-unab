@@ -1,0 +1,377 @@
+{
+  "nodes": [
+    {
+      "id": "PSY101",
+      "name": "Historia y Fundamentos de la Psicolog\u00eda",
+      "semestre": 1
+    },
+    {
+      "id": "PSY102",
+      "name": "T\u00f3picos de Neurobiolog\u00eda",
+      "semestre": 1
+    },
+    {
+      "id": "PSY103",
+      "name": "Psicolog\u00eda y Sociedad",
+      "semestre": 1
+    },
+    {
+      "id": "PSY104",
+      "name": "Sistemas Psicol\u00f3gicos",
+      "semestre": 1
+    },
+    {
+      "id": "PSY105",
+      "name": "Procesos Psicol\u00f3gicos y Neurociencia",
+      "semestre": 1
+    },
+    {
+      "id": "PSY106",
+      "name": "Psicolog\u00eda y Epistemolog\u00eda",
+      "semestre": 1
+    },
+    {
+      "id": "ING101",
+      "name": "Ingl\u00e9s I",
+      "semestre": 1
+    },
+    {
+      "id": "GEN101",
+      "name": "Eje de Formaci\u00f3n Interdisciplinaria I",
+      "semestre": 1
+    },
+    {
+      "id": "PSY201",
+      "name": "Psicoan\u00e1lisis I",
+      "semestre": 2
+    },
+    {
+      "id": "PSY202",
+      "name": "Psicolog\u00eda del Desarrollo I",
+      "semestre": 2
+    },
+    {
+      "id": "ING102",
+      "name": "Ingl\u00e9s II",
+      "semestre": 2
+    },
+    {
+      "id": "GEN102",
+      "name": "Habilidades Comunicativas",
+      "semestre": 2
+    },
+    {
+      "id": "GEN103",
+      "name": "Eje de Formaci\u00f3n Interdisciplinaria II",
+      "semestre": 2
+    },
+    {
+      "id": "PSY301",
+      "name": "Psicoan\u00e1lisis II",
+      "semestre": 3
+    },
+    {
+      "id": "PSY302",
+      "name": "Psicolog\u00eda del Desarrollo II",
+      "semestre": 3
+    },
+    {
+      "id": "PSY303",
+      "name": "Introducci\u00f3n a la Investigaci\u00f3n I",
+      "semestre": 3
+    },
+    {
+      "id": "ING103",
+      "name": "Ingl\u00e9s III",
+      "semestre": 3
+    },
+    {
+      "id": "GEN104",
+      "name": "Razonamiento Cient\u00edfico y TICs",
+      "semestre": 3
+    },
+    {
+      "id": "PSY401",
+      "name": "Psicodiagn\u00f3stico Cl\u00ednico I",
+      "semestre": 4
+    },
+    {
+      "id": "PSY402",
+      "name": "Psicopatolog\u00eda y Psiquiatr\u00eda I",
+      "semestre": 4
+    },
+    {
+      "id": "PSY403",
+      "name": "Introducci\u00f3n a la Investigaci\u00f3n II",
+      "semestre": 4
+    },
+    {
+      "id": "ING104",
+      "name": "Ingl\u00e9s IV",
+      "semestre": 4
+    },
+    {
+      "id": "GEN105",
+      "name": "Eje de Formaci\u00f3n Interdisciplinaria III",
+      "semestre": 4
+    },
+    {
+      "id": "PSY501",
+      "name": "Psicodiagn\u00f3stico Cl\u00ednico II",
+      "semestre": 5
+    },
+    {
+      "id": "PSY502",
+      "name": "Psicopatolog\u00eda y Psiquiatr\u00eda II",
+      "semestre": 5
+    },
+    {
+      "id": "PSY503",
+      "name": "Taller de Integraci\u00f3n I",
+      "semestre": 5
+    },
+    {
+      "id": "PSY504",
+      "name": "Psicolog\u00eda Social",
+      "semestre": 5
+    },
+    {
+      "id": "GEN106",
+      "name": "Eje de Formaci\u00f3n Interdisciplinaria IV",
+      "semestre": 5
+    },
+    {
+      "id": "PSY601",
+      "name": "Cl\u00ednica Sist\u00e9mica",
+      "semestre": 6
+    },
+    {
+      "id": "PSY602",
+      "name": "Psicopatolog\u00eda Infantojuvenil",
+      "semestre": 6
+    },
+    {
+      "id": "PSY603",
+      "name": "Psicolog\u00eda Educacional",
+      "semestre": 6
+    },
+    {
+      "id": "PSY604",
+      "name": "Diagn\u00f3stico e Intervenci\u00f3n Social",
+      "semestre": 6
+    },
+    {
+      "id": "PSY605",
+      "name": "Psicolog\u00eda Jur\u00eddica",
+      "semestre": 6
+    },
+    {
+      "id": "PSY606",
+      "name": "Psicolog\u00eda del Trabajo y las Organizaciones",
+      "semestre": 6
+    },
+    {
+      "id": "PSY701",
+      "name": "Diagn\u00f3stico e Intervenci\u00f3n Educacional",
+      "semestre": 7
+    },
+    {
+      "id": "PSY702",
+      "name": "Diagn\u00f3stico e Intervenci\u00f3n Organizacional",
+      "semestre": 7
+    },
+    {
+      "id": "PSY703",
+      "name": "Cl\u00ednica Psicoanal\u00edtica",
+      "semestre": 7
+    },
+    {
+      "id": "PSY704",
+      "name": "Cl\u00ednica Infantojuvenil",
+      "semestre": 7
+    },
+    {
+      "id": "PSY801",
+      "name": "Taller de Investigaci\u00f3n",
+      "semestre": 8
+    },
+    {
+      "id": "PSY802",
+      "name": "Diagn\u00f3stico e Intervenci\u00f3n Jur\u00eddica",
+      "semestre": 8
+    },
+    {
+      "id": "PSY803",
+      "name": "Intervenci\u00f3n Cl\u00ednica Sist\u00e9mica",
+      "semestre": 8
+    },
+    {
+      "id": "ELEC801",
+      "name": "Electivo de Formaci\u00f3n Profesional I",
+      "semestre": 8
+    },
+    {
+      "id": "ELEC802",
+      "name": "Electivo de Formaci\u00f3n Profesional II",
+      "semestre": 8
+    },
+    {
+      "id": "PSY901",
+      "name": "Taller de Intervenci\u00f3n Cl\u00ednica",
+      "semestre": 9
+    },
+    {
+      "id": "PSY902",
+      "name": "Psicolog\u00eda y Salud",
+      "semestre": 9
+    },
+    {
+      "id": "PSY903",
+      "name": "Taller de Diagn\u00f3stico o Intervenci\u00f3n Psicosocial",
+      "semestre": 9
+    },
+    {
+      "id": "PSY1001",
+      "name": "Pr\u00e1ctica Profesional",
+      "semestre": 10
+    }
+  ],
+  "links": [
+    {
+      "source": "PSY101",
+      "target": "PSY201"
+    },
+    {
+      "source": "PSY105",
+      "target": "PSY202"
+    },
+    {
+      "source": "ING101",
+      "target": "ING102"
+    },
+    {
+      "source": "GEN101",
+      "target": "GEN103"
+    },
+    {
+      "source": "PSY201",
+      "target": "PSY301"
+    },
+    {
+      "source": "PSY202",
+      "target": "PSY302"
+    },
+    {
+      "source": "PSY303",
+      "target": "PSY403"
+    },
+    {
+      "source": "ING102",
+      "target": "ING103"
+    },
+    {
+      "source": "GEN103",
+      "target": "GEN105"
+    },
+    {
+      "source": "PSY302",
+      "target": "PSY401"
+    },
+    {
+      "source": "PSY302",
+      "target": "PSY402"
+    },
+    {
+      "source": "PSY401",
+      "target": "PSY501"
+    },
+    {
+      "source": "PSY402",
+      "target": "PSY502"
+    },
+    {
+      "source": "PSY403",
+      "target": "PSY503"
+    },
+    {
+      "source": "PSY302",
+      "target": "PSY603"
+    },
+    {
+      "source": "PSY302",
+      "target": "PSY604"
+    },
+    {
+      "source": "PSY302",
+      "target": "PSY605"
+    },
+    {
+      "source": "PSY302",
+      "target": "PSY606"
+    },
+    {
+      "source": "PSY603",
+      "target": "PSY701"
+    },
+    {
+      "source": "PSY606",
+      "target": "PSY702"
+    },
+    {
+      "source": "PSY502",
+      "target": "PSY703"
+    },
+    {
+      "source": "PSY602",
+      "target": "PSY704"
+    },
+    {
+      "source": "PSY403",
+      "target": "PSY801"
+    },
+    {
+      "source": "PSY605",
+      "target": "PSY802"
+    },
+    {
+      "source": "PSY601",
+      "target": "PSY803"
+    },
+    {
+      "source": "PSY703",
+      "target": "PSY901"
+    },
+    {
+      "source": "PSY704",
+      "target": "PSY901"
+    },
+    {
+      "source": "PSY803",
+      "target": "PSY901"
+    },
+    {
+      "source": "PSY801",
+      "target": "PSY902"
+    },
+    {
+      "source": "PSY604",
+      "target": "PSY903"
+    },
+    {
+      "source": "PSY702",
+      "target": "PSY903"
+    },
+    {
+      "source": "PSY901",
+      "target": "PSY1001"
+    },
+    {
+      "source": "PSY902",
+      "target": "PSY1001"
+    },
+    {
+      "source": "PSY903",
+      "target": "PSY1001"
+    }
+  ]
+}
